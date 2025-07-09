@@ -1,0 +1,9 @@
+# Gizli dosyalar
+.env
+
+# Python'un oluşturduğu geçici dosyalar
+__pycache__/
+*.pyc
+
+# Veritabanı dosyası
+veritabani.db
